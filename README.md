@@ -1,3 +1,7 @@
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 # ADDZYME
 **ADDZYME** is a machine learning-based algorithm for prediction of the effect of an additive on the activity of an enzyme. It uses 30 ERT-Baseline models to report relative activity. For more information refer to our published paper.
 ![addzyme](https://github.com/miladrayka/addzyme/blob/main/addzyme.PNG)
