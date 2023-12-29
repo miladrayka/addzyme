@@ -48,3 +48,7 @@ Which env is the location to create the virtual environment. Now you can install
 For using ADDZYME, after activating your environment, e.g., env, change your directory to ./codes and type the following command:
 
 >   streamlit run addzyme_gui.py
+
+# Reproducing paper results
+
+For reproducing all results of the paper use *preparation_and_training.ipynb* and *dataset_analysis.ipynb*. Gathered data points are available in *enzyme_additive_dataset.csv*. Check *codes* folder.
