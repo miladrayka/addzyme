@@ -53,6 +53,6 @@ For using ADDZYME, after activating your environment, e.g., env, change your dir
 
 >   streamlit run addzyme_gui.py
 
-# Reproducing paper results
+# Reproducing Paper Results
 
 For reproducing all results of the paper use *preparation_and_training.ipynb* and *dataset_analysis.ipynb*. Gathered data points are available in *enzyme_additive_dataset.csv*. Check *codes* folder.
