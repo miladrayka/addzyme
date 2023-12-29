@@ -42,3 +42,9 @@ On macOS and Linux:
 Which env is the location to create the virtual environment. Now you can install packages:
 
 >    pip install *package_name*==*version"
+
+# Usage
+
+For using ADDZYME, after activating your environment, e.g., env, change your directory to ./models and type the following command:
+
+>   streamlit run addzyme_gui.py
