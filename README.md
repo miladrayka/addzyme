@@ -45,6 +45,6 @@ Which env is the location to create the virtual environment. Now you can install
 
 # Usage
 
-For using ADDZYME, after activating your environment, e.g., env, change your directory to ./models and type the following command:
+For using ADDZYME, after activating your environment, e.g., env, change your directory to ./codes and type the following command:
 
 >   streamlit run addzyme_gui.py
