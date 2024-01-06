@@ -3,7 +3,7 @@
 
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 # ADDZYME
-**ADDZYME** is a machine learning-based algorithm for prediction of the effect of an additive on the activity of an enzyme. It uses 30 ERT-Baseline models to report relative activity. For more information refer to our published paper.
+**ADDZYME** is a machine learning-based algorithm for the prediction of the effect of an additive on the activity of an enzyme. It uses 30 ERT-Baseline models to report relative activity. For more information refer to our published paper.
 ![addzyme](https://github.com/miladrayka/addzyme/blob/main/addzyme.PNG)
 
 # Contact
@@ -43,7 +43,7 @@ On macOS and Linux:
 >    python3 -m venv env
 >    source env/bin/activate
 
-Which env is the location to create the virtual environment. Now you can install packages:
+Which env is the location to create the virtual environment. Now, you can install packages:
 
 >    pip install *package_name*==*version"
 
@@ -55,4 +55,4 @@ For using ADDZYME, after activating your environment, e.g., env, change your dir
 
 # Reproducing Paper Results
 
-For reproducing all results of the paper use *preparation_and_training.ipynb* and *dataset_analysis.ipynb*. Gathered data points are available in *enzyme_additive_dataset.csv*. Check *codes* folder.
+For reproducing all results of the paper use *preparation_and_training.ipynb* and *dataset_analysis.ipynb*. Gathered data points are available in *enzyme_additive_dataset.csv*. Check the *codes* folder.
