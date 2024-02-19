@@ -11,7 +11,7 @@
 Milad Rayka, milad.rayka@yahoo.com
 
 # Citation
-Under publishing.
+Accepted to publish at Journal of Chemical Sciences.
 
 # Installation
 
