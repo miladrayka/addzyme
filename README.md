@@ -11,7 +11,7 @@
 Milad Rayka, milad.rayka@yahoo.com
 
 # Citation
-Accepted to publish at Journal of Chemical Sciences.
+[ADDZYME: A software to predict effect of additives on enzyme activity](10.1007/s12039-024-02272-8).
 
 # Installation
 
